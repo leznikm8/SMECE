@@ -3,6 +3,8 @@ Created on 11 Mar 2026
 
 @author: Dr. Mike
 
+https://arxiv.org/abs/2603.14092
+
 smece_simulation.py
 ===================
 Simulation code for all four SMECE experiments.
